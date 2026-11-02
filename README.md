@@ -6,6 +6,14 @@
 
 ![LuuMo 空间观影](screenshots/player.jpg)
 
+## TestFlight 测试
+
+LuuMo 目前可通过 TestFlight 体验。请先在 Apple Vision Pro 上安装 TestFlight，然后打开下方链接，按提示加入测试并安装 App。
+
+**[加入 TestFlight 测试](https://testflight.apple.com/join/QnE192p9)**
+
+测试版本可能存在问题，欢迎在下方反馈。
+
 ## 功能介绍
 
 - **发现内容**：浏览推荐、热门、关注、番剧和直播，搜索视频与用户。
