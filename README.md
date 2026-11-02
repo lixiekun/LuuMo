@@ -29,6 +29,10 @@
 
 ![空间播放器](screenshots/player.jpg)
 
+### 自定义播放器
+
+![自定义播放器及相关视频和评论](screenshots/custom-player.jpg)
+
 ### 评论与 UP 主视频
 
 ![播放时查看评论](screenshots/comments.jpg)
