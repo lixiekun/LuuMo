@@ -29,7 +29,7 @@
 
 ![空间播放器](screenshots/player.jpg)
 
-### 一边观看，一边探索
+### 评论与 UP 主视频
 
 ![播放时查看评论](screenshots/comments.jpg)
 
